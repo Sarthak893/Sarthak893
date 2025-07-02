@@ -47,15 +47,7 @@ Simple e-commerce site demonstrating use of JavaScript along with HTML and CSS.
 
 `Python` `FastAPI` `Flask` `SQLite` `Git` `GitHub` `HTML` `CSS` `JavaScript`   
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak893&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
----
 
 ## 📫 Let’s Connect
 
