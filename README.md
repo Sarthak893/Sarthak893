@@ -45,7 +45,7 @@ Simple e-commerce site demonstrating use of JavaScript along with HTML and CSS.
 
 ## 🧰 Tech Stack
 
-`Python` `FastAPI` `Flask` `SQLite` `Git` `GitHub` `HTML` `CSS` `JavaScript`   
+`Python` `FastAPI` `Flask` `SQLite` `GIT` `GitHub` `HTML` `CSS` `JavaScript`   
 
 
 
