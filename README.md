@@ -11,20 +11,6 @@
 
 Here are a few things I’ve built recently:
 
-### 🛒 [Product Catalog API](https://github.com/Sarthak893/Product-catalog-api.git)
-A RESTful API for managing e-commerce product listings using FastAPI, SQLAlchemy, and SQLite.  
-✅ CRUD operations  
-✅ Swagger docs  
-✅ Clean DB + API structure  
-
----
-
-### 📈 [product-price-tracker](https://github.com/Sarthak893/product-price-tracker.git)
-Command-line Python app that scrapes product prices and stores price history in SQLite.  
-✅ Web scraping (BeautifulSoup)  
-✅ SQLite-based persistence  
-✅ CLI menu with real-time output
-
 ---
 
 ### 🎬 [Netflix Clone](https://github.com/Sarthak893/Netflex_clone.git)  
@@ -45,13 +31,13 @@ Simple e-commerce site demonstrating use of JavaScript along with HTML and CSS.
 
 ## 🧰 Tech Stack
 
-`Python` `FastAPI` `Flask` `SQLite` `GIT` `GitHub` `HTML` `CSS` `JavaScript`   
+`Python`  `GIT` `GitHub` `HTML` `CSS` `JavaScript`   
 
 
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sarthak-kumar-36b209321)
+- 🔗 [LinkedIn](www.linkedin.com/in/sarthak--kumar)
 - 🧑‍💻 [GitHub](https://github.com/Sarthak893)
 - 📬 Email: kumarsarthak741@gmail.com
 
