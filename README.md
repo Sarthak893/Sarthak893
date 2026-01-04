@@ -31,7 +31,7 @@ Simple e-commerce site demonstrating use of JavaScript along with HTML and CSS.
 
 ## 🧰 Tech Stack
 
-`Python`  `GIT` `GitHub` `HTML` `CSS` `JavaScript` `MongoDb`  `NodeJs`    
+`Python`  `GIT` `GitHub` `HTML` `CSS` `JavaScript` `MongoDb`  `NodeJs` `React`
 
 
 
